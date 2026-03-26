@@ -162,26 +162,6 @@ nav .dropdown-menu .nav-link{color:rgba(0,0,0,0.6)!important;} /* Maintain Downd
 	background:rgba(0,0,0,.3);
 }
 
-.btn-sq{
-	border-radius: 0px;
-}
-.btn-xl{
-	padding: 16px 40px;
-	font-size: 28px;
-}
-.a-block{
-	width:100%;
-	text-align:left;
-	display: inline-block;
-}
-.text-center .a-block{
-	text-align:center;
-}
-.btn .caret{
-	margin:0 0 0 5px}.dropdown a .caret{
-	margin:0 0 0 5px}.btn-dropdown .dropdown-menu .dropdown{
-	padding: 3px 20px;
-}
 
 
 
@@ -505,51 +485,6 @@ p{
 
 .tc-3849{
 	color:var(--swatch-var-3849)!important;
-}
-
-/* Button colour styles */
-
-.bgc-3849{
-	background-color:var(--swatch-var-3849);
-}
-.tc-3849{
-	color:var(--swatch-var-3849)!important;
-}
-.btn-c-3849,.btn-c-3849:focus{
-	background:var(--swatch-var-3849);
-	color:rgba(0,0,0,.5)!important;
-}
-.btn-c-3849:hover{
-	background:#CCCCCC!important;
-	color:rgba(0,0,0,.5)!important;
-}
-.wire-btn-c-3849{
-	color:var(--swatch-var-3849)!important;
-	border-color:var(--swatch-var-3849)!important;
-}
-.ltc-3849{
-	color:var(--swatch-var-3849)!important;
-}
-.ltc-3849:hover{
-	color:#CCCCCC!important;
-}
-.icon-3849{
-	color:var(--swatch-var-3849)!important;
-	border-color:var(--swatch-var-3849)!important;
-}
-/**/.bgc-970{
-	background-color:var(--swatch-var-970);
-}
-.tc-970{
-	color:var(--swatch-var-970)!important;
-}
-.btn-c-970,.btn-c-970:focus{
-	background:var(--swatch-var-970);
-	color:rgba(0,0,0,.5)!important;
-}
-.btn-c-970:hover{
-	background:#C2C2C4!important;
-	color:rgba(0,0,0,.5)!important;
 }
 
 /* Bloc image backgrounds */
