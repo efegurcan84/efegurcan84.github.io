@@ -222,23 +222,6 @@ nav .dropdown-menu .nav-link{color:rgba(0,0,0,0.6)!important;} /* Maintain Downd
 }
 
 
-.carousel-nav-icon{
-	fill: none;
-	stroke: #fff;
-	stroke-width: 2px;
-	fill-rule: evenodd;
-	stroke-linecap:round;
-}
-
-.carousel-caption-top{
-	bottom: inherit;
-	top: 20px;
-}
-
-.carousel-indicators li::marker{
-	font-size:0;
-}
-
 
 /* ScrollToTop button */
 
